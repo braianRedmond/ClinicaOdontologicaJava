@@ -1,0 +1,43 @@
+[2022-12-11 18:52:10] [ INFO ] [TurnoService:57] Se realizo correctamente la busqueda de todos los turnos existentes en la BD
+[2022-12-11 18:52:53] [ INFO ] [TurnoService:57] Se realizo correctamente la busqueda de todos los turnos existentes en la BD
+[2022-12-11 18:53:01] [ INFO ] [OdontologoService:22] Se guardo el odontologo en la BD correctamente
+[2022-12-11 18:53:05] [ INFO ] [OdontologoService:22] Se guardo el odontologo en la BD correctamente
+[2022-12-11 18:53:07] [ INFO ] [OdontologoService:37] Se realizo correctamente la busqueda de todos los odontologos existentes en la BD
+[2022-12-11 18:53:08] [ INFO ] [OdontologoService:40] Se realizo la busqueda del odontologo: 1, correctamente
+[2022-12-11 18:53:11] [ INFO ] [OdontologoService:27] Se actualizo el odontologo: 1, en la BD correctamente
+[2022-12-11 18:53:11] [ INFO ] [OdontologoService:37] Se realizo correctamente la busqueda de todos los odontologos existentes en la BD
+[2022-12-11 18:53:12] [ INFO ] [OdontologoService:31] Se elimino el odontologo con id: 2, de la BD correctamente
+[2022-12-11 18:53:22] [ INFO ] [PacienteService:21] Se guardo el paciente en la BD correctamente
+[2022-12-11 18:53:33] [ INFO ] [PacienteService:21] Se guardo el paciente en la BD correctamente
+[2022-12-11 18:53:35] [ INFO ] [PacienteService:36] Se realizo correctamente la busqueda de todos los pacientes existentes en la BD
+[2022-12-11 18:53:36] [ INFO ] [PacienteController:37] Se realizo la busqueda del paciente: 1, correctamente
+[2022-12-11 18:53:39] [ INFO ] [PacienteService:26] Se actualizo el odontologo: 1, en la BD correctamente
+[2022-12-11 18:53:39] [ INFO ] [PacienteService:36] Se realizo correctamente la busqueda de todos los pacientes existentes en la BD
+[2022-12-11 18:53:40] [ INFO ] [PacienteService:30] Se elimino el paciente con id: 2, de la BD correctamente
+[2022-12-11 18:53:48] [ INFO ] [TurnoService:28] Se guardo el turno en la BD correctamente
+[2022-12-11 18:53:52] [ INFO ] [TurnoService:57] Se realizo correctamente la busqueda de todos los turnos existentes en la BD
+[2022-12-11 18:53:54] [ INFO ] [TurnoService:43] El turno con id: 1, fue encontrado en la BD
+[2022-12-11 18:53:57] [ INFO ] [TurnoService:43] El turno con id: 1, fue encontrado en la BD
+[2022-12-11 18:53:57] [ INFO ] [TurnoService:34] Se actualizo el turno: 1, en la BD correctamente
+[2022-12-11 18:53:57] [ INFO ] [TurnoService:57] Se realizo correctamente la busqueda de todos los turnos existentes en la BD
+[2022-12-11 18:53:58] [ INFO ] [TurnoService:43] El turno con id: 1, fue encontrado en la BD
+[2022-12-11 18:53:58] [ INFO ] [TurnoService:38] Se elimino el turno con id: 1, de la BD correctamente
+[2022-12-11 18:53:59] [ INFO ] [TurnoService:57] Se realizo correctamente la busqueda de todos los turnos existentes en la BD
+[2022-12-11 18:54:05] [ ERROR] [GlobalException:22] No se puede cargar el turno porque no existe o el odontologo o el paciente en la Base de Datos
+[2022-12-11 20:53:10] [ INFO ] [OdontologoService:22] Se guardo el odontologo en la BD correctamente
+[2022-12-11 20:53:33] [ INFO ] [PacienteService:21] Se guardo el paciente en la BD correctamente
+[2022-12-11 20:53:51] [ INFO ] [TurnoService:28] Se guardo el turno en la BD correctamente
+[2022-12-11 20:53:53] [ INFO ] [TurnoService:57] Se realizo correctamente la busqueda de todos los turnos existentes en la BD
+[2022-12-11 20:53:54] [ INFO ] [TurnoService:43] El turno con id: 1, fue encontrado en la BD
+[2022-12-11 20:53:54] [ INFO ] [TurnoService:38] Se elimino el turno con id: 1, de la BD correctamente
+[2022-12-11 20:53:54] [ INFO ] [TurnoService:57] Se realizo correctamente la busqueda de todos los turnos existentes en la BD
+[2022-12-12 12:30:35] [ INFO ] [OdontologoService:22] Se guardo el odontologo correctamente
+[2022-12-12 12:30:37] [ INFO ] [OdontologoService:37] Se realizo correctamente la busqueda de todos los odontologos existentes
+[2022-12-12 12:30:39] [ INFO ] [OdontologoService:31] Se elimino el odontologo con id: 1
+[2022-12-12 12:30:51] [ INFO ] [PacienteService:21] Se guardo el paciente
+[2022-12-12 12:30:54] [ INFO ] [PacienteService:36] Se realizo correctamente la busqueda de todos los pacientes existentes
+[2022-12-12 12:31:02] [ INFO ] [OdontologoService:22] Se guardo el odontologo correctamente
+[2022-12-12 12:31:20] [ INFO ] [TurnoService:57] Se realizo correctamente la busqueda de todos los turnos existentes en la BD
+[2022-12-12 12:31:25] [ INFO ] [OdontologoService:37] Se realizo correctamente la busqueda de todos los odontologos existentes
+[2022-12-12 12:31:42] [ INFO ] [TurnoService:57] Se realizo correctamente la busqueda de todos los turnos existentes en la BD
+[2022-12-12 12:31:52] [ INFO ] [TurnoService:28] Se guardo el turno
